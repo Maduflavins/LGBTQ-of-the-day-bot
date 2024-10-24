@@ -570,4 +570,21 @@ adjectives = [
     'subtle',
     'tenacious',
     'prudent',
+    
+    # smells
+    'acrid',
+    'earthy',
+    'floral',
+    'fragrant',
+    'gamy',
+    'musty',
+    'smoky',
+    'fresh',
+    'spicy',
+    
+    # time
+    'delayed',
+    'brief',
+    'acient',
+    'expired',
 ]
